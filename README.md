@@ -1,10 +1,10 @@
-# iessimarro-smx2a-projecteGrupal
-Repositori de Github per al projecte Intermodular de **2n SMX-A de l'IES LLUIS SIMARRO**
+# iessimarro-smx2a-projecte
+Repositori de Github per al seguiment del projecte Intermodular de **2n SMX-A de l'IES LLUIS SIMARRO**
 
-Aquest és l'espai centralitzat on es gestionen els projectes de **2n SMX- A de l'IES Lluis Simarro de Xàtiva**.   
+Aquest és l'espai centralitzat on es gestionen els projectes de l'alumnat de **2n SMX- A de l'IES Lluis Simarro de Xàtiva**.   
 L'objectiu principal és allotjar els repositoris dels projectes, coordinar els equips i fer seguiment de ls tasques.
 
-Utilitzant **GitHub Projects**, pots organitzar fàcilment els projectes dividint les tasques, assignant-les a membres del grup, i fer seguiment de l’estat en temps real. Això millora la **col·laboració** i la **visibilitat** de l'equip en cada fase del projecte.
+Utilitzant la plataforma **GitHub Projects**, pots organitzar fàcilment els projectes dividint les tasques, assignant-les a membres del grup, i fer seguiment de l’estat en temps real. Això millora la **col·laboració** i la **visibilitat** de l'equip en cada fase del projecte.
 
 **Passos a seguir per a treballar amb el projecte**
 
@@ -44,15 +44,15 @@ Github Projects és una eina de gestió de tasques que permet organitzar, classi
 Un tauler de **Kanban** en GitHub es compon de **columnes**. Cada columna pot representar un **estat** del projecte o una **fase** de les tasques.  
 Les columnes més comunes són:
 
-* **Backlog**: Tasques per fer.
+* ***Backlog***: Tasques per fer.
 
-* **To Do**: Tasques assignades però no començades.
+* ***To Do***: Tasques assignades però no començades.
 
-* **In Progress**: Tasques que s'estan fent.
+* ***In Progress***: Tasques que s'estan fent.
 
-* **Review**: Tasques en revisió.
+* ***Review***: Tasques en revisió.
 
-* **Done**: Tasques finalitzades.
+* ***Done***: Tasques finalitzades.
 
 Per crear o editar columnes:
 
@@ -66,12 +66,12 @@ Per crear o editar columnes:
 
 ### **Pas 2.2: Crear les tasques (Issues)**
 
-A **GitHub Projects**, cada incidència/tasca o unitat de treball es representa com un **"issue"** (*incidència*) o **"task"** (*tasca*). Cada _issue_ contindrà la descripció de la tasca, el temps d'execució, els membres assignats i l'estat actual.
+A **GitHub**, cada incidència/tasca es representa com un **"issue"** (*incidència*) o **"task"** (*tasca*). Cada _issue_, per defecte, contindrà la descripció de la tasca, el temps d'execució, els membres assignats i l'estat actual.
 Les Incidències són una eina de creació i seguiment d'incidències relacionades amb un projecte.
 
 En aquest espai, també es permet la comunicació i la col·laboració entre els membres del projecte per a aportar informació sobre la incidència.
 
-#### Per crear un **issue**:
+#### Per crear una incidència (***issue***):
 
 1. A la barra lateral del projecte, fes clic a **"Issues"**.
 
@@ -96,8 +96,8 @@ Així crearàs una tasca dins el repositori per a cada acció a realitzar.
 1. Una vegada tingues el tauler creat, pots **afegir tasques** a les columnes.
 
 2. Hi ha dos possibilitats:
-   - Editant el _issue_, a la part dreta et permetrà seleccionar directament el **Project Board** i la **columna** (per exemple: **"Backlog"** o **"To Do"**).
-   - A l'esquerra de cada _issue_ (des de la secció **Issues**), trobaràs una opció per **afegir-les al tauler de projectes**.
+   - Editant la _incidència_, a la part dreta et permetrà seleccionar directament el **Project Board** i la **columna** (per exemple: **"Backlog"** o **"To Do"**).
+   - A l'esquerra de cada _incidència_ (des de la secció **Issues**), trobaràs una opció per **afegir-les al tauler de projectes**.
 
 4. Quan crees un **Issue**, pots seleccionar directament el **Project Board** i la **columna** (per exemple: **"Backlog"** o **"To Do"**).
 
@@ -107,9 +107,9 @@ Així crearàs una tasca dins el repositori per a cada acció a realitzar.
 
 ### **Pas 3.1: Assignar membres a les tasques**
 
-Quan crees o editis un **Issue**, pots assignar-lo a un membre del grup:
+Quan crees o editis una _incidència_, pots assignar-lo a un membre del grup:
 
-1. Dubs de l'issue, fes clic a **Assignees**.
+1. Dins de la incidència, fes clic a **Assignees**.
 
 2. Selecciona el membre de l'equip al qual vols assignar la tasca.
 
@@ -142,7 +142,7 @@ Quan crees o edites un **issue**, pots afegir les etiquetes adequades a cada tas
 
 ### **Pas 5.1: Crear fites (Milestones)**
 
-Les fites permeten organitzar les incidències per complir un objectiu específic. Dón un mecanisme per organitzar **Incidències** dins d'un repositori. 
+Les fites permeten organitzar les incidències per complir un objectiu específic. Són un mecanisme per organitzar **Incidències** dins d'un repositori. 
 
 S'utilitzen per **definir objectius específics en el desenvolupament del projecte**.
 
