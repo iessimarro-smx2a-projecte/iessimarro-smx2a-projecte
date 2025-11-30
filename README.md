@@ -6,21 +6,28 @@ L'objectiu principal és allotjar els repositoris dels projectes, coordinar els 
 
 Utilitzant la plataforma **GitHub Projects**, pots organitzar fàcilment els projectes dividint les tasques, assignant-les a membres del grup, i fer seguiment de l’estat en temps real. Això millora la **col·laboració** i la **visibilitat** de l'equip en cada fase del projecte.
 
+
 **Passos a seguir per a treballar amb el projecte**
+
+## **0. Acceptar invitació del professor per a ser membre de l'organització**
+
+És imprescindible ser membre de l'organització ja que dins de l'organització serà on estiga el repositori i el projecte a gestionar.
 
 ## **1. Crear un repositori i habilitar GitHub Projects**
 
-### **Pas 1.1: Crear un repositori al teu compte**
+### **Pas 1.1: Crear un repositori a l'organització**
 
-1. Ves a [GitHub](https://github.com) i inicia sessió amb el teu compte.
+1. Ves a [GitHub](https://github.com), inicia sessió amb el teu compte.
 
-2. Fes clic a **\+** (a dalt a la dreta) i selecciona **"New repository"**.
+2. Accedeix a l'organització i un dels membres del grup, ha de crear un repositori.
+  
+3. Per a això, dins l'organització, fes clic a **\+** (a dalt a la dreta) i selecciona **"New repository"**.
 
-3. Nom del repositori, visibilitat (públic o privat), i descripció.
+4. Nom del repositori, visibilitat (públic o privat), i descripció.
 
-4. Fes clic a **Create repository**.
+5. Fes clic a **Create repository**.
    
-5. Dona-li un nom, per exemple _Projecte Intermodular 2smxA_
+6. Dona-li un nom, per exemple _Projecte Intermodular 2smxA_
 
 ### **Pas 1.2: Crear un projecte amb GitHub Projects**
 
